@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn%20%7C%20XGBoost-orange)
 
 <div align="center">
-  <img src="Multiple-Disease-Prediction-Webapp-main/img/image.png" alt="App Screenshot" width="800"/>
+  <img src="Multiple-Disease-Prediction-Webapp-main/image.png" alt="App Screenshot" width="800"/>
 </div>
 
 ## 📋 Overview
